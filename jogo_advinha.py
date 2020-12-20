@@ -6,7 +6,7 @@ from termcolor import colored
 os.system("clear")
 
 
-print("###Criador : D3pl0yzz Epysp \n###Contato: (82)981690602\n")
+print("###Criador : Epysp \n###")
 
 #usuario 
 
